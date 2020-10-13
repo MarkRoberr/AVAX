@@ -23,7 +23,7 @@
   <p align="center">
   AVAX is a small, modern and fast console application for decrypting passwords with certain options.
 </br>
-  <img src="https://i.giphy.com/media/6IvjYBq0FHpK9912xF/source.gif" width="350" title="hover text">
+  <img src="https://media4.giphy.com/media/RBiRxYjixMKxgstuEo/giphy.gif" width="800" title="hover text">
 </p>
 
 <!-- GETTING STARTED -->
