@@ -36,11 +36,7 @@ git clone https://github.com/AVDAX/AVAX.git
 ```
 </br>
 
-**2. OPTION** - Download as ZIP
-
-</br>
-
-**3. OPTION** - Download the executable file
+**2. OPTION** - Download the executable file
   - <a href="https://github.com/AVDAX/AVAX/releases/tag/v1.0">Releases</a>
 
 <!-- USAGE EXAMPLES -->
