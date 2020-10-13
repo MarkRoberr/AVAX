@@ -54,8 +54,6 @@ git clone https://github.com/AVDAX/AVAX.git
 | WORD          |        ?     |  ?     |
 | HIDE CHARACTERS | TRUE       | FALSE |
 
-## FUTURE
-
 <!-- LICENSE -->
 ## LICENSE
 
