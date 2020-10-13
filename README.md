@@ -19,7 +19,7 @@
 
 ## AVAX - DESCRIPTION
 
-![AVAX GIF](https://i.giphy.com/media/6IvjYBq0FHpK9912xF/source.gif)
+  ![AVAX GIF](https://i.giphy.com/media/6IvjYBq0FHpK9912xF/source.gif)
 
 AVAX is a small, modern and fast console application for decrypting passwords with certain options.
 
