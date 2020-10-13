@@ -26,7 +26,7 @@
 </p>
 
 <!-- GETTING STARTED -->
-## AVAX - GETTING STARTED
+## AVAX - FIRST STEPS
 
 ### Installation
 
