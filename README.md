@@ -26,9 +26,7 @@
 </p>
 
 <!-- GETTING STARTED -->
-## AVAX - FIRST STEPS
-
-### INSTALLATION
+## AVAX - INSTALLATION
 
 **1. OPTION** - Clone the repo
 ```
