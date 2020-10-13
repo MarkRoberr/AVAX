@@ -49,10 +49,23 @@ git clone https://github.com/AVDAX/AVAX.git
 | OPTION        | VALUE           | VALUE  |
 | ------------- |:-------------:| -----:|
 | TARGETED      | TARGETED | TARGETED |
-| ACTIVE        | ACTIVE| ACTIVE |
-| PROTOCOLING   | TRUE         | FALSE |
-| WORD          |        ?     |  ?     |
-| HIDE CHARACTERS | TRUE       | FALSE |
+
+
+| OPTION        | VALUE           | VALUE  |
+| ------------- |:-------------:| -----:|
+| ACTIVE      | ACTIVE | ACTIVE |
+
+| OPTION        | VALUE           | VALUE  |
+| ------------- |:-------------:| -----:|
+| PROTOCOLING      | TRUE | FALSE |
+
+| OPTION        | VALUE           | VALUE  |
+| ------------- |:-------------:| -----:|
+| WORD      | ? | ? |
+
+| OPTION        | VALUE           | VALUE  |
+| ------------- |:-------------:| -----:|
+| HIDE CHARACTERS      | TRUE | FALSE |
 
 <!-- LICENSE -->
 ## LICENSE
