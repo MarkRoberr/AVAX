@@ -28,23 +28,23 @@
 <!-- GETTING STARTED -->
 ## AVAX - FIRST STEPS
 
-### Installation
+### INSTALLATION
 
-**1. Option** - Clone the repo
+**1. OPTION** - Clone the repo
 ```
 git clone https://github.com/AVDAX/AVAX.git
 ```
 </br>
 
-**2. Option** - Download as ZIP
+**2. OPTION** - Download as ZIP
 
 </br>
 
-**3. Option** - Download the executable file
+**3. OPTION** - Download the executable file
   - <a href="https://github.com/AVDAX/AVAX/releases/tag/v1.0">Releases</a>
 
 <!-- USAGE EXAMPLES -->
-## Options
+## OPTIONS
 
 | OPTION        | VALUE           | VALUE  |
 | ------------- |:-------------:| -----:|
@@ -54,7 +54,9 @@ git clone https://github.com/AVDAX/AVAX.git
 | WORD          |        ?     |  ?     |
 | HIDE CHARACTERS | TRUE       | FALSE |
 
+## FUTURE
+
 <!-- LICENSE -->
-## License
+## LICENSE
 
 Distributed under the MIT License. See `LICENSE` for more information.
