@@ -30,7 +30,7 @@ AVAX is a small, modern and fast console application for decrypting passwords wi
 
 **1. Option** - Clone the repo
 ```
-git clone https://github.com/AVDAX/AVA.git
+git clone https://github.com/AVDAX/AVAX.git
 ```
 </br>
 
