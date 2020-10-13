@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AVDAX/AVA">
+  <a href="https://github.com/AVDAX/AVAX">
     <img src="https://i.ibb.co/DR47ky2/appbar-layer-thick.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,8 +11,8 @@
     BRUTEFORCE ALGORITHM
     <br />
     <br />
-  <a href="https://github.com/AVDAX/AVA/issues">Report Bug</a> -
-  <a href="https://github.com/AVDAX/AVA/issues">Request Feature</a>
+  <a href="https://github.com/AVDAX/AVAX/issues">Report Bug</a> -
+  <a href="https://github.com/AVDAX/AVAX/issues">Request Feature</a>
   </p>
 </p>
 
@@ -39,7 +39,7 @@ git clone https://github.com/AVDAX/AVA.git
 </br>
 
 **3. Option** - Download the executable file
-  - <a href="https://github.com/AVDAX/AVA/releases/tag/v0.9-alpha">Releases</a>
+  - <a href="https://github.com/AVDAX/AVAX/releases/tag/v0.9-alpha">Releases</a>
 
 <!-- USAGE EXAMPLES -->
 ## Options
