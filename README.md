@@ -39,7 +39,7 @@ git clone https://github.com/AVDAX/AVAX.git
 </br>
 
 **3. Option** - Download the executable file
-  - <a href="https://github.com/AVDAX/AVAX/releases/tag/v0.9-alpha">Releases</a>
+  - <a href="https://github.com/AVDAX/AVAX/releases/tag/v1.0">Releases</a>
 
 <!-- USAGE EXAMPLES -->
 ## Options
