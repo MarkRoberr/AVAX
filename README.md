@@ -38,7 +38,7 @@ git clone https://github.com/AVDAX/AVAX.git
 
 ## Options
 
-⚠ Updating the argument selection ⚠
+⚠ Updating the argument selection ⚠⚠
 
 
 | OPTION        | VALUE         |
