@@ -16,33 +16,27 @@
   </p>
 </p>
 
-
-## AVAX - DESCRIPTION
-
   AVAX is a small, modern and fast console application for decrypting passwords with certain options.
   <p align="left">
 </br>
   <img src="https://media4.giphy.com/media/RBiRxYjixMKxgstuEo/giphy.gif" width="600" title="hover text">
 </p>
 
-<!-- GETTING STARTED -->
-## AVAX - INSTALLATION
-
-**1. OPTION** - Clone the repo
-```
+## Installation
+```sh
 git clone https://github.com/AVDAX/AVAX.git
 ```
 </br>
 
-**2. OPTION** - Download the executable file
-  - <a href="https://github.com/AVDAX/AVAX/releases/tag/v1.0">Releases</a>
+### Directly (Windows Executable)
+<a href="https://github.com/AVDAX/AVAX/releases/tag/v1.0">Releases</a>
 
-<!-- USAGE EXAMPLES -->
-## OPTIONS - DESCRIPTION
+## Options - ⚠ Updating the argument selection ⚠
 
-| OPTION        | VALUE          |
+
+| OPTION        | VALUE         |
 | ------------- |:-------------:| 
-| TARGETED      | TARGETED |
+| ALGORITHM     | TARGETED |
 
 - User input that the algorithm should be started targeted
 
